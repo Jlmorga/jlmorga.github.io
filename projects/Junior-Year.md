@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: A1D084F0-B8EA-471F-B41D-8B82132030AF_1_201_a.jpeg
 title: "Junior-Year"
 date: August 28th, 022
 published: true
