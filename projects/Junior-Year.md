@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: A1D084F0-B8EA-471F-B41D-8B82132030AF_1_201_a.jpeg
+image: 41F0DCF0-7032-4468-BC86-D521FEE3D551_4_5005_c.jpeg
 title: "Junior-Year"
 date: August 28th, 022
 published: true
