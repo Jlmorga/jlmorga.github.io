@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 41F0DCF0-7032-4468-BC86-D521FEE3D551_4_5005_c.jpeg
+image: img/Junior-Year.png
 title: "Junior-Year"
 date: August 28th, 022
 published: true
