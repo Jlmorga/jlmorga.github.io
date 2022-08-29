@@ -4,7 +4,7 @@ type: project
 image: img/Junior-Year.png
 title: "Junior-Year"
 date: August 28th, 022
-published: true
+published: false
 labels:
   - Goals
   - Classes
