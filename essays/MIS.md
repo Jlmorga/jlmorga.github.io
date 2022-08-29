@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+
 
 I have always been back and forth on what my major should be. I was never one of those people and still am not one of those people that exactly know what they want to do after they graduate. Going in to college I always thought I would end up with a marketing degree. However as I did more research and got to experience different internships I decided in the end to pursue an MIS degree. 
 
