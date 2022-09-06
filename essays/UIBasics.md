@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why MIS"
+title: "Using the Atheltic Approach"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-22
 published: true
@@ -20,4 +20,4 @@ Looking at the directions for this third WOD, I assumed it would be easy because
 
 
 Overall Thoughts
-Getting to go through trial and error with these projects, though can be frustrating, it has allowed me to learn from my mistakes. Without these little mistakes and big mistakes I don't think I would be able to get the knowledge that I do now. Sometimes it can be frustrating when you think you are finally going to have a successful run but having to end up deleting your project in the end. My advice for anyone starting these WODs is to not give up on yourself and it is normal to run into mistakes (many actually). But taking the time to understand your mistakes and how you are going to fix them will allow you to learn all the necessary skills intended for us to learn with these WODs. Another piece of advice for anyone struggling with the WODs is to not just use the screencasts for help. I found myself refering back to websites that Professor Port has given us. These can be useful and apply directly to the concepts we are learning in our WODs. 
+Getting to go through trial and error with these projects, though can be frustrating, it has allowed me to learn from my mistakes. Without these little mistakes and big mistakes I don't think I would be able to get the knowledge that I do now. Sometimes it can be frustrating when you think you are finally going to have a successful run but having to end up deleting your project in the end. My advice for anyone starting these WODs is to not give up on yourself and it is normal to run into mistakes (many actually). But taking the time to understand your mistakes and how you are going to fix them will allow you to learn all the necessary skills intended for us to learn with these WODs. Another piece of advice for anyone struggling with the WODs is to not just use the screencasts for help. I found myself refering back to websites that Professor Port has given us. These can be useful and apply directly to the concepts we are learning in our WODs. I am greatful Professor Port uses this style of running the class be we ultimately learn from our own experiences. I am a fan of the athletic approach to learning how to code.
