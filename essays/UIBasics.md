@@ -1,7 +1,13 @@
+---
+layout: essay
+type: essay
+title: "Why MIS"
+# All dates must be YYYY-MM-DD format!
+date: 2022-08-22
 published: true
 labels:
   - MIS
-  - WOD
+  - Learning
 ---
 Browser History 1
 Going into the first WOD, I am not going to lie I was a little nervous since it was our first one. I made sure I was as ready as possible so I made sure to read all the directions before starting. Going through the directions I started to remember stuff we learned from the basics of html website.. Little things here and there like headings. Some of this stuff was a refresher from ICS 101 when we had to create our own websites so I felt a little bit better after understanding the scope of the project. When actually starting the project itself I found myself blanking on a lot of the tags to use, they were either incorrect or I didn't know where to start. My first try I definitely went over 25 min. After watching the screencast 2 times I tried again in which I struggled with getting the links to work and because of this I went over time so I tried again. Before trying again for the third time I watched the screencast once more to make sure I understood the mistakes I was making. After my third attempt I finished in under 25 minutes and with a better understanding on how to create links to an external page. My advice for this first WOD is to make sure you are transferring all the proper information from the directions to your code properly. A missing letter or symbol can be the reason why your code is not working the way you want it to.
