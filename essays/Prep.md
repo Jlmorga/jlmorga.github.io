@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "WOD Preparation"
 # All dates must be YYYY-MM-DD format!
-date: 2022-09-17
+date: 2022-09-25
 published: true
 labels:
   - MIS
