@@ -11,7 +11,7 @@ labels:
 ---
 ## My programming skills have greatly improved in the following ways:
 
-One way that my programming skills improved is that I’m able to look at blocks of code and understand what the code does. However, sometimes when it come to writing the actual code myself, I tend to struggle. I would say  I had a good understanding of the basics such as when to use tags, the importance of correct punctuation & grammar, understanding how HTML and CSS work with each other. However besides these, I cannot say I am confident in much else, however I hope I do get there one day.  I am not too confident with JavaScript yet. However I found commenting on my code going through labs and the assignment 1 has defiantly help me grasps some of the concepts better. 
+One way that my programming skills improved is that I’m able to look at blocks of code and understand what the code does. However, sometimes when it come to writing the actual code myself, I tend to struggle. I would say I have a good understanding of the basics such as when to use tags, the importance of correct punctuation & grammar, understanding how HTML and CSS work with each other. However besides these, I cannot say I am confident in much else, however I hope I do get there one day.  I am not too confident with JavaScript yet. However I found commenting on my code going through labs and the assignment 1 has definitely helped me grasps some of the concepts better. 
 
 
 
@@ -26,7 +26,7 @@ Doing the WODS, have definitely taught me a lot. I was able to do one of the WOD
 
 ## The labs have help me learn and I am able to complete them with confidence:
 
-Yes, I would say the labs have definitely helped me to learn however I was able to complete them with confidence. Since the labs are new material, I need to go over each exercise thoroughly. Since we had to finish the labs on our own a lot of times, I would say I was not able to properly understand the concepts as much as I liked to.
+Yes, I would say the labs have definitely helped me to learn however I was not able to complete them with confidence. Since the labs are new material, I need to go over each exercise thoroughly. Since we had to finish the labs on our own a lot of times, I would say I was not able to properly understand the concepts as much as I liked to.
 
 
 ## I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:
