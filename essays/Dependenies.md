@@ -11,6 +11,8 @@ labels:
 ---
 
 
+## How One Programmer Broke the Internet by Deleting a Tiny Piece of code
+
 
 First of all, the title "How One Programmer Broke the Internet by Deleting a Tiny Piece of code", is extremely intriguing. Before reading the article in its entirety the title shocked me to think so much power can hold in 11 lines of code. After reading the article, my first reaction is it is crazy how dependent web application development is on programmers that do contribute to npm. I feel like it should not be that easy for one person to have that much control over whether something is running or not. You would think to make a change that could cause that much of a severity, in this case, those 11 lines of code, you would think this action would need approval from multiple other people in order to avoid a situation from happening like this. I guess Koculu was right when he said open-source gives "more power to the people". 
 
