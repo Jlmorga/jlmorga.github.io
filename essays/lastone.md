@@ -2,7 +2,7 @@ layout: essay
 type: essay
 title: "E6: Evaluation Guidelines and Class Retrospective BLOG"
 # All dates must be YYYY-MM-DD format!
-date: 2022-12-12
+date: 2022-12-05
 published: true
 labels:
   - MIS
