@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Jaden Morga",
+    "label": "Student",
+    "picture": "https://github.com/jlmorga.png",
+    "email": "jmorga@hawaii.edu",
+    "phone": "916-749-8292",
+    "website": "https://jlmorga.github.io",
+    "summary": "I am studying for a B.S. in Managment Information Systems at the Shidler College of Business School at the University of Hawaii at Manoa. I expect to graduate in December, 2023.",
+    "location": { "address": " ", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Jlmorga", "url": "http://github.com/Jlmorga" },
+      { "network": "linkedin", "username": "Jaden Morga", "url": "https://www.linkedin.com/in/jaden-morga-1594a0223/" },
+      { "network": "instagram", "username": "Jlmorga", "url": "https://www.instagram.com/jlmorga/" }
+    ]
+  },
+  "interests": [
+    { "name": "Gardening" },
+    { "name": "Dancing" },
+    { "name": "Trying new foods" },
+    { "name": "Hiking" },
+    { "name": "Cooking" }
+  ],
+  "skills": [
+    {
+      "name": "Technical",
+      "keywords": [ "Google Analytics", "Salesforce", "Excel", "Word", "Powerpoint", "Canva" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Managment Information Systems (expected December, 2022)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-15",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Decision Research Corporation",
+      "position": "Marketing Analytics and Campaign Intern",
+      "website": "https://www.decisionresearch.com",
+      "startDate": "2022-06-01",
+      "endDate": "Present",
+      "summary": "Developed & managed an end-to-end marketing campaign comprising of product research, competitor analysis, metric optimization, SEO, and business development",
+      "highlights": [
+        "Leveraged google analytics and trends to develop custom google ads, terminus banners, and an email campaign, leading to a 334% increase in webpage traffic",
+        "Collaborated with engineers to translate technical details into interpretable deliverables for key stakeholders"
+      ]
+    },
+    {
+      "company": "Sodexo",
+      "position": "Marketing Intern",
+      "website": "https://us.sodexo.com/home.html",
+      "startDate": "2022-05-01",
+      "endDate": "Present",
+      "summary": "Organize and conduct 10+ school activities and fundraising events for 700+ students",
+      "highlights": [
+        "Survey over 600 students weekly to determine brand preferences and quality of product",
+        "Increase audience engagement on Instagram by 58.3% from March-April 2022"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "KTUH Radio",
+      "website": "https://ktuh.org",
+      "position": "Marketing and Development Intern",
+      "startDate": "2021-12-01",
+      "endDate": "2022-05-01",
+      "summary": "Assisted in underwriting $1,000+ contracts to create solid agreements between various companies",
+      "highlights": [
+        "Raised over $10,000 in funds for the radio station alongside the current marketing committee",
+        "Coordinated and successfully organized Radiothon, an event lasting 10 days to raise money from listeners"
+      ]
+    },
+    {
+      "organization": "American Marketing Association",
+      "website": "http://amauhm.org",
+      "position": "Vice President of Student Relations",
+      "startDate": "2022-05-01",
+      "endDate": "Present",
+      "summary": "Produced daily promotional materials including flyers, posters, and other media for students, professionals, and the community",
+      "highlights": [
+        "Vice President of Promotions, AMA Manoa, 2021-2022"
+   
+      ]
+    }
+  ],
+ 
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

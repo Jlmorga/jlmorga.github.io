@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Assignment 3 Checkpoint | Jaden Morga| Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/jlmorga.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jaden Morga| Professional Portfolio">
+    <meta property="og:url" content="https://jlmorga.github.io/essays/checkpoint.html">
+    <meta property="og:title" content="Assignment 3 Checkpoint | Jaden Morga| Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/jlmorga.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Assignment 3 Checkpoint | Jaden Morga| Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Jaden Morga</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Assignment 3 Checkpoint</h1>
+  <span class="date">28 Nov 2022</span>
+  <hr>
+  <h2 id="show-what-each-page-will-look-like-the-pages-do-not-have-to-be-functional-but-the-design-should-clear">Show what each page will look like. The pages do not have to be “functional” but the design should clear.</h2>
+
+<p>Click <a href="https://www.youtube.com/watch?v=vgcehdjkjj8">here</a> to watch a brief presentation of my desired layout and functionality of my e-commerce website.</p>
+
+<h2 id="describe-your-design-for-your-sites-shopping-cart-that-is-will-it-be-a-separate-page-that-the-user-can-view-and-edit-or-will-it-be-integrated-into-the-product-pages-if-so-describe-in-detail-how-this-will-work-on-your-site-provide-several-examples-of-using-the-cart">Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.</h2>
+
+<p>My shopping cart is a separate page that can be accessed through the side bar of the home and products pages. Each of the products pages will have an add to cart button where they can add items to their cart. On the cart page itself, I will eventually add a button for users to add quantities, and remove quantities from their cart. There will be two buttons at the button my this page one to continue shopping and the other to continue with their purchases which will bring them to the invoice page.</p>
+
+<h2 id="explain-specifically-how-you-will-use-sessions-to-manage-your-shopping-cart-in-particular-what-shopping-cart-data-will-be-stored-in-the-session-what-data-format-will-be-used-not-what-data-type-but-the-format-like-with-the-data-format-used-for-your-registration-data-use-code-examples-showing-what-data-structures-such-as-arrays-and-their-objects-you-will-use-to-manage-the-shopping-cart-data-and-how-they-will-be-used-in-a-session">Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.</h2>
+
+<p>Sessions will be utilized in my assignment 3 to manage my shopping cart information and store quantity data. The value of each product type key will be the quantities for each of the products in an array format. For instance, if a user wants to add products from a variety of products pages the item data in the session will look like this:
+{ Succulents: [ 1, 0, 1 ], Snake Plant: [ 2, 1, 0 ] }</p>
+
+<h2 id="how-will-you-avoid-access-to-your-application-when-the-user-has-not-logged-in-or-registered-what-are-the-particular-security-concerns-you-must-address">How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?</h2>
+
+<p>I will avoid access to my application when the user has not logged in or registered yet by using cookies. When a user purchases an item through the shopping cart, the server will check if the user has a cookie.  If the user does have a cookie and is logged in, they will be directed to the invoice however if user does not have a cookie , the user will be taken to the login page to sign in or will have to create an account. A security concern with this way is that cookies can be accessed and modified.</p>
+
+<h2 id="upon-a-successful-login-how-do-you-provide-personalization-in-your-ui-explain-how-you-did-or-will-do-this-paste-code-if-necessary">Upon a successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary)</h2>
+
+<p>Upon a successful login I will include the email of the username in the invoice message. Also in the thank you page, I will include the user’s name and email address to verify their purchases. I will do this by using the user_data stored in the cookie in the initial log in.</p>
+
+<h2 id="if-you-are-working-with-partners-how-will-you-split-up-the-work-in-your-team-so-that-you-are-working-in-parallel-as-effectively-as-possible-that-is-who-is-doing-what-and-when">If you are working with partners, how will you split up the work in your team so that you are working in parallel as effectively as possible? That is, who is doing what and when?</h2>
+
+<p>I am not working with a partner</p>
+
+<h2 id="how-are-you-approaching-assignment-3-differently-than-assignment-2">How are you approaching Assignment 3 differently than Assignment 2?</h2>
+
+<p>Compared to assignment three I am taking more time to think about my plan and create a design before starting the actual project. The assignment 3 checkpoint helped me lay everything out because I am not yet completed with everything. I am doing my best to not stress myself out over the small things like I have been doing with assignment 2 and 1.</p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
