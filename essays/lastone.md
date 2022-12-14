@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 ## Briefly describe your system (e.g. A store selling Pokemon game cards)
-I built an ecommerce store called "The Plant Collective" that sells house plants and all this plant related items.
+I built an ecommerce store called "The Plant Collective" that sells house plants and plant related items.
 
 ## Any notable shortcomings, bugs, problems, or additional features not implemented?
 Unfortunately I was not able to add in all of the personalization aspects to my pages that I was planning on. I had trouble with cookies and couldn't get everything working that I wanted to when it came to personlizing each page to add to the overall user experience.
